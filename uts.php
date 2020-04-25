@@ -48,7 +48,7 @@ height="600" width="500" bgcolor="yellow">
 </tr>
 
 <tr>
-	<td>Nama Mahasiswa</td>
+	<td>NIM Mahasiswa</td>
 	<td>: <input type="text" size="8" name="mahasiswa"></td>
 </tr>
 
